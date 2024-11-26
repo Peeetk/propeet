@@ -1,0 +1,116 @@
+h1 {font-size: 40px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    font-style: italic;
+    text-align: center;
+    
+}
+
+h2 {font-size: 30px;
+      color: aquamarine;
+      text-align: center;
+
+}
+
+a {color: white;
+            font-size:25px;
+            font-family: Verdana, Geneva, Tahoma;
+            font-weight: bold;
+            font-style: italic;
+          }
+button {color: red;
+        background-color: blue;
+        font-family: 'Raleway', sans-serif;
+        border: 3px solid yellow;
+        font-size: 40px;
+        padding: 2px;
+        margin: 5px;
+
+}
+
+p {font-size: 20px;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      color: aqua;
+}
+
+#banner {
+  background-image: url("../assets/bright-daylight-environment-forest-240040-1\ \(1\).jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 100%;
+  border: 3px double white;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+#myself {
+      background-image: url("../assets/ME.jpg");
+      height: 200px;
+      width: 200px;
+      background-size:cover ;
+      background-position: center;
+      margin: 0 auto;
+
+}
+
+
+.abc {border-style: double;}
+
+.pic {height: 200px;
+      width: 200px;
+      border: 2px solid black;
+      
+      
+
+}
+body {background-color: cornflowerblue;
+      background-image: url(../assets/backgroundMain.jpg);
+      background-size: cover;
+      
+
+}
+
+.gall {height: 400px;
+      width: 600px;
+      border: 3px solid black;
+    
+    }
+
+#contact {
+      font-family:Arial, Helvetica, sans-serif;
+      font-style: inherit;
+      font-size: 32px;
+      color: coral;
+
+}
+      
+.cont {font-size: 20px;
+
+
+}
+
+.navigation ul {
+     
+      text-align: center;
+      color: rgb(255, 242, 0);
+      font-size: 30px;
+      border: 3px solid white;
+      margin-left: 200px;
+      margin-right: 200px;
+}
+
+
+
+#project p {
+      color: rgb(31, 203, 163);
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      border: 3px dotted rgb(0, 0, 0);
+      text-align: center;
+      border-radius: 100px;
+      padding: 15px;
+      margin-left: 200px;
+      margin-right: 200px;
+
+}
+
